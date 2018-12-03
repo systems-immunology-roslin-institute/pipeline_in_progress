@@ -2,7 +2,6 @@
 ## Pre-requisites
 ### Required tools:
 - Samtools (version 1.4)
-- R (version 3.2.5)
 - Sambamba (version 0.6.6)
 - BEDTools (version 2.25.0)
 - Blast+ (version 2.6.0)
