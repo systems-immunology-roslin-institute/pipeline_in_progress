@@ -24,6 +24,7 @@ Please install/add the above tools prior to running this pipeline. The tool vers
 - a 	:	If sample annotation is supplied, node/edge are averaged within specified groups 
 - s 	:	Folder with sorted input bam files. 
 
+
 > Example 1:
 > bash generate_network.sh \
 > -b input_bam \
