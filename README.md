@@ -20,10 +20,7 @@ Please install/add the above tools prior to running this pipeline. The tool vers
 - c	: 	The cache directory (default “cache”)
 - p	: 	The percentage similarity value (default 85) 
 - l	: 	The percentage coverage value (default 30)
-- u	:	The method used to unify reads. Options are:
-       by_seq (by 100% sequence identity) 
-       by_coord (by same start and end positions) (default)
-       no_blast (by binning the chromosome positions into specific intervals, require the -r setting)
+- u	:	The method used to unify reads. Options are: by_seq (by 100% sequence identity), by_coord (by same start and end positions) (default), no_blast (by binning the chromosome positions into specific intervals, require the -r setting)
 -a 	:	If sample annotation is supplied, node/edge are averaged within specified groups 
 -s 	:	Folder with sorted input bam files. 
 
