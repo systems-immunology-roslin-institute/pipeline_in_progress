@@ -1,6 +1,7 @@
 # NGS-Graph-Generator2
 ## Pre-requisites
 ### Required tools:
+- Python (version 2.7)
 - Samtools (version 1.4)
 - Sambamba (version 0.6.6)
 - BEDTools (version 2.25.0)
