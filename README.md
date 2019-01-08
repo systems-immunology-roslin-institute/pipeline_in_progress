@@ -25,13 +25,13 @@ Please install/add the above tools prior to running this pipeline. The tool vers
 - s 	:	Folder with sorted input bam files. 
 
 
-> Example 1:
+Example 1:
 > bash generate_network.sh \
 > -b input_bam \
 > -n gene_list.txt \
 > -g input_gtf/Mus_musculus.GRCm38.91.chr.gtf 
 
-> Example 2:
+Example 2:
 > bash generate_network.sh \
 > -b input_bam \
 > -n gene_list.txt \
